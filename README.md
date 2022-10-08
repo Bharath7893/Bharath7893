@@ -5,7 +5,7 @@
 
 > 👋  Hi, I’m **Bharath Kumar**
 
-> 👨‍💼 **I'm working as a Accessibility remediation specialist with 1+ years of experience**
+> 👨‍💼 **I'm working as an Accessibility remediation specialist with 1+ years of experience**
 
 > 🌱 **I’m currently Attending a Bootcamp on Full Stack JavaScript Web Developer Bootcamp organized by iNeuron.ai and Mentored by Hitesh Choudhary.**
 
